@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Smart Scan launcher icon: rounded green square + white document/scanner glyph -->
+    <path
+        android:fillColor="#0BA360"
+        android:pathData="M24,8 L84,8 A16,16 0 0 1 100,24 L100,84 A16,16 0 0 1 84,100 L24,100 A16,16 0 0 1 8,84 L8,24 A16,16 0 0 1 24,8 Z" />
+    <!-- document sheet -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,28 L58,28 A4,4 0 0 1 62,32 L62,34 A4,4 0 0 1 58,38 L34,38 A4,4 0 0 1 30,34 L30,32 A4,4 0 0 1 34,28 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,46 L78,46 A4,4 0 0 1 82,50 L82,52 A4,4 0 0 1 78,56 L30,56 A4,4 0 0 1 26,52 L26,50 A4,4 0 0 1 30,46 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,60 L78,60 A4,4 0 0 1 82,64 L82,66 A4,4 0 0 1 78,70 L30,70 A4,4 0 0 1 26,66 L26,64 A4,4 0 0 1 30,60 Z" />
+    <!-- scan corner brackets -->
+    <path
+        android:strokeColor="#B8F5D5"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M36,82 L36,72 M36,72 L46,72" />
+    <path
+        android:strokeColor="#B8F5D5"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M72,82 L72,72 M72,72 L62,72" />
+</vector>

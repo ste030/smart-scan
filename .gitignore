@@ -1,0 +1,39 @@
+# === Signing secrets — never commit ===
+.keystore/
+*.jks
+*.keystore
+keystore.properties
+
+# === Local machine config ===
+local.properties
+
+# === Gradle / build output ===
+.gradle/
+build/
+app/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# === Kotlin compiler ===
+.kotlin/
+
+# === Original proprietary APK used for reference only — DO NOT PUBLISH ===
+original.apk
+apk_extract/
+
+# === Build artifacts ===
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+
+# === IDE ===
+.idea/
+*.iml
+*.hprof
+
+# === OS ===
+.DS_Store
+Thumbs.db
