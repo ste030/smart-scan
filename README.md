@@ -1,5 +1,7 @@
 # Smart Scan
 
+[![Build](https://github.com/ste030/smart-scan/actions/workflows/build.yml/badge.svg)](https://github.com/ste030/smart-scan/actions/workflows/build.yml)
+
 A fast, privacy-first document scanner for Android. Point, shoot, and get clean,
 cropped, enhanced scans — entirely on-device, with no cloud, no account, and no ads.
 
